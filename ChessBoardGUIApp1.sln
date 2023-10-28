@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBoardGUIApp1", "ChessBoardGUIApp1\ChessBoardGUIApp1.csproj", "{678C1F6E-E615-4AF7-8588-7AC2160E1A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBoardModel1", "..\ChessBoardConsoleApp\ChessBoardModel1\ChessBoardModel1.csproj", "{BCC6B85B-12BB-466D-9FFF-DA6FCA3CD3AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678C1F6E-E615-4AF7-8588-7AC2160E1A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678C1F6E-E615-4AF7-8588-7AC2160E1A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678C1F6E-E615-4AF7-8588-7AC2160E1A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678C1F6E-E615-4AF7-8588-7AC2160E1A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC6B85B-12BB-466D-9FFF-DA6FCA3CD3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC6B85B-12BB-466D-9FFF-DA6FCA3CD3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC6B85B-12BB-466D-9FFF-DA6FCA3CD3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC6B85B-12BB-466D-9FFF-DA6FCA3CD3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF7FA7E-B33F-480F-85B1-955EA8EB044D}
+	EndGlobalSection
+EndGlobal
